@@ -1,2 +1,2 @@
 # projeto_automa-o
-Repositório para desenvolvimento de hibilidades com python.
+Repositório para desenvolvimento de habilidades com python.
